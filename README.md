@@ -1,6 +1,6 @@
 # Clasificación de flores Iris
 
-A lo largo de este proyecto, se evalúan diferentes algoritmos de Machine Learning sobre el dataset Iris Flowers para encontrar aquel alcanza la precisión de clasificación más alta.
+A lo largo de este proyecto, se evalúan diferentes algoritmos de Machine Learning sobre el dataset Iris Flowers para encontrar aquel que alcanza la precisión de clasificación más alta.
 
 La estructura del proyecto está dada por:
 
